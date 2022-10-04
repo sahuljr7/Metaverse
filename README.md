@@ -1,27 +1,24 @@
-# Next.js + Tailwind CSS Example
+Web 3.0
+Project Metaverse: A realtime chat Dapp(decentralized application) based on Web3.0 and Blockchain.
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Preview
+Problem Statement
+The privacy issues in a time where digital life is almost consuming us is a grave threat.
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+➡Users have to submit sensitive data, like name, date of birth, and phone number.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+➡Apps are often misused to spread fake news and misinformation.
 
-## Deploy your own
+➡Many messaging applications store the data on the cloud, which is not encrypted, exposing it to vulnerabilities.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+➡Several apps use personal information for unethical purposes. They allegedly shared the data acquired with advertisers. To this date, cases of such privacy and data leaks have already happened.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+We got a Solution!!!
+The demand for private instant communication fueled the rise of encrypted messaging apps. So, in this project we are building a realtime chat Dapp(decentralized application) based on Web3.0 and Blockchain.
 
-## How to use
+What problem does our web application solve?
+➡ A completely secure and anonymous sign-up, only needing a crypto wallet address. No need for names, IDs, or phone numbers (like Telegram). Total user privacy, without compromise.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+➡ No cloud storage, no user moderation, and complete end-to-end encryption for all messages between users – completely eliminating the risk of hacks or data leaks.
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+➡ All messaging history and files are on anonymous, independent, and non-connected nodes, on the Blockchain network. This eliminates all points of failure and, as it grows and expands its nodes, becomes increasingly secure.
